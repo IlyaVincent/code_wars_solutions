@@ -1,5 +1,9 @@
 # Решение задач codewars.com
 Профиль https://www.codewars.com/users/ThakVincent
+
+1) [JavaScript](#javascript)
+2) [PHP](#php)
+
 ## JavaScript
 
 #### Задача:
